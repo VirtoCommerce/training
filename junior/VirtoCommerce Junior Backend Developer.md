@@ -69,3 +69,5 @@ https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetco
 ### AutoMapper
 https://docs.automapper.org/en/stable/
 ### Elastic Search
+https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/nest-getting-started.html
+https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/index.html
