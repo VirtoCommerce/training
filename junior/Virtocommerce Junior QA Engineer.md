@@ -4,7 +4,7 @@ https://www.istqb.org/downloads/category/2-foundation-level-documents.html - Syl
 ## Scrum
 https://www.scrum.org/scrum-guide-2020
 https://itvdn.com/ru/channel/video/agile_scpprum
-##Testing types
+## Testing types
 https://en.wikipedia.org/wiki/Software_testing
 ## Tools
 - https://www.gurock.com/testrail/
