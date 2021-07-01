@@ -19,12 +19,6 @@ https://www.atlassian.com/software/confluence/guides/get-started/confluence-over
 https://learning.postman.com/docs/getting-started/introduction/ 
 ### Swagger
 https://swagger.io/docs/specification/2-0/what-is-swagger/ 
-### Jenkins
-https://www.jenkins.io/2.0/
-### Docker
-https://docs.docker.com/get-started/overview/
-### CI/CD
-https://docs.gitlab.com/ee/ci/introduction/
 ## Ecommerce
 - https://en.wikipedia.org/wiki/Types_of_e-commerce
 - https://en.wikipedia.org/wiki/B2B_e-commerce
